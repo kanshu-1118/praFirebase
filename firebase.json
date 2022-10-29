@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "site": "fir-practice-7f13e",
     "public": "dist",
     "ignore": [
       "firebase.json",
