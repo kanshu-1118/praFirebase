@@ -29,6 +29,7 @@ function App() {
       </p>
       <h2>こんにちは</h2>
       <p>devブランチを切ってgithub actionで自動デプロイ</p>
+      <p>git mergeでやってみる</p>
     </div>
   )
 }
