@@ -28,8 +28,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <h2>こんにちは</h2>
-      <h2>こんにちは</h2>
-      <h2>こんにちは</h2>
+      <p>devブランチを切ってgithub actionで自動デプロイ</p>
     </div>
   )
 }
